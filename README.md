@@ -4,11 +4,11 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 *If you found this list helpful, tweet it to let other founders find it!*
 
-## 💌 Email Outreach Templates
-* [something](https://wynter.com/post/customers-for-interviews)
-* [something](https://twitter.com/sab8a/status/1750139712424091767)
-* [something](https://www.groovehq.com/attachments/blog/non-scaleable-growth-tactics/a-request.png)
-* [something else](https://cdn-aipmi.nitrocdn.com/pUHWBQidOlEeRPsGpymdfXQXdCAwwKii/assets/images/optimized/rev-c3155a1/encharge.io/wp-content/uploads/2019/08/personal-intro.jpg)
+## 💌 Email Invite Templates
+* [something](https://wynter.com/post/customers-for-interviews)- quick guide to 
+* [something](https://twitter.com/sab8a/status/1750139712424091767) - the email used to do something
+* [something](https://www.groovehq.com/attachments/blog/non-scaleable-growth-tactics/a-request.png) - the email foner of what used to recutir participants
+* [something else](https://cdn-aipmi.nitrocdn.com/pUHWBQidOlEeRPsGpymdfXQXdCAwwKii/assets/images/optimized/rev-c3155a1/encharge.io/wp-content/uploads/2019/08/personal-intro.jpg) - welcome to something
 
 
 ## 🔎 Customer Interview Questions
@@ -38,8 +38,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 
 ## 🛠 Tools
-* [Fanthom](https://fathom.video/)
-* [Tactiq](https://tactiq.io/)
+* [Fanthom](https://fathom.video/) - the all in on one tool for calls
+* [Tactiq](https://tactiq.io/) - live transcription for calls
 
 
 ## 👩‍💻 Author
