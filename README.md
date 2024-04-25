@@ -2,7 +2,7 @@
 
 This is a short hand-picked collection of resources to help SaaS founders get started with customer research.
 
-**If you found this list helpful, tweet it to let other founders find it!**
+*If you found this list helpful, tweet it to let other founders find it!*
 
 ## 💌 Email Outreach Templates
 * [something](https://wynter.com/post/customers-for-interviews)
