@@ -1,8 +1,8 @@
-# Welcome to Talking to Customers!
+# 👋 Welcome to Talking to Customers!
 
-This is a hand-picked collection of resources to help SaaS founders get started with customer research.
+This is a short hand-picked collection of resources to help SaaS founders get started with customer research.
 
-If you found this list helpful, tweet it to let other founders find it!
+**If you found this list helpful, tweet it to let other founders find it!**
 
 ## 💌 Email Outreach Templates
 * [something](https://wynter.com/post/customers-for-interviews)
@@ -24,20 +24,29 @@ If you found this list helpful, tweet it to let other founders find it!
 * [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342)
 
 ## 📚 Books
-* [The Mom Test](https://www.momtestbook.com/)
-* [Deploy Empathy](https://deployempathy.com/)
-* [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book)
+* [The Mom Test](https://www.momtestbook.com/) - the bible for customer discovery, recommended read if you're a developer in search for a problem to solve
+* [Deploy Empathy](https://deployempathy.com/) - something like most of the templates are already here but there is way more like more, if you're getting stared with call this one to read
+* [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book) - recommended if you already have customers and to
 
 
 ## 🚀 Other Goodies
-* [put feedback on aoutpilot](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback)
-* []()
-* []()
-
+* [Unlock the power of user feedback](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback) - 
+* [somthing](https://demandmaven.substack.com/p/how-to-not-do-product-discovery)
+* [Crash Course in Audience Reseach](https://www.forgetthefunnel.com/resources/saas-audience-research-habits)
+* [max diffs](https://demandmaven.substack.com/p/maxdiff-the-secret-to-getting-the)
+* [](https://valchanova.me/customer-development-jobs-to-be-done/)
 
 
 ## 🛠 Tools
 * [Fanthom](https://fathom.video/)
 * [Tactiq](https://tactiq.io/)
 
-And something about how to get in touch
+
+## 👩‍💻 Author
+Talking to Customers is a collection created and maintained by (Edoardo Stradella)[]
+
+All articles, tools and other goodies were done by independent authors and companies. All credentials are included.
+
+In the future i'd like to add something,
+
+Feel free to recommend me resources!
