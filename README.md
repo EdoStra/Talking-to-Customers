@@ -53,10 +53,6 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 </br>
 
 ## 👩‍💻 Author
-Talking to Customers is a collection created and maintained by (Edoardo Stradella)[]
+Talking to Customers is a collection created and maintained by (Edoardo Stradella)[https://twitter.com/e_stradella] (Feel free to recommend me resources!)
 
 All articles, tools and other goodies were done by independent authors and companies. All credentials are included.
-
-In the future i'd like to add something,
-
-Feel free to recommend me resources!
