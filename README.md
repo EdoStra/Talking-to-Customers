@@ -24,16 +24,16 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 ## 💎 Customer Interview Scripts
 * [Customer Discovery Script](https://deployempathy.substack.com/p/customer-interview-script-discovery-phase-i-e-before-you-ve-built-anything-415336) - useful to understand what to build, before actually building it by Michele Hansen
-* [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - use this script to understand the intial part of your customer journey
-* [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - 
-* [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - 
+* [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - use this script to uncover the initial part of your customer's journey
+* [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - learn from the customers you want more of
+* [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - if you're struggling with high churn
 </br>
 </br>
 
 ## 📚 Books
 * [The Mom Test](https://www.momtestbook.com/) - the bible for customer discovery, recommended if you're a developer in search of a problem to solve
-* [Deploy Empathy](https://deployempathy.com/) - everything, and I mean everything, on user interviews, best practices,   
-* [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book) - 
+* [Deploy Empathy](https://deployempathy.com/) - everything, and I mean everything, on user interviews
+* [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book) - a must-read if you're struggling to find a practical use for customer research
 </br>
 </br>
 
