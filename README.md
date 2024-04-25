@@ -24,7 +24,7 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 ## 💎 Customer Interview Scripts
 * [Customer Discovery Script](https://deployempathy.substack.com/p/customer-interview-script-discovery-phase-i-e-before-you-ve-built-anything-415336) - useful to understand what to build, before actually building it by Michele Hansen
-* [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - 
+* [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - use this script to understand the intial part of your customer journey
 * [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - 
 * [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - 
 </br>
@@ -32,27 +32,27 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 ## 📚 Books
 * [The Mom Test](https://www.momtestbook.com/) - the bible for customer discovery, recommended if you're a developer in search of a problem to solve
-* [Deploy Empathy](https://deployempathy.com/) - something like most of the templates are already here but there is way more like more, if you're getting stared with call this one to read
-* [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book) - recommended if you already have customers and to
+* [Deploy Empathy](https://deployempathy.com/) - everything, and I mean everything, on user interviews, best practices,   
+* [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book) - 
 </br>
 </br>
 
 ## 🚀 Other Goodies
-* [Unlock the power of user feedback](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback) - 
-* [How to not do product discovery](https://demandmaven.substack.com/p/how-to-not-do-product-discovery) - 
-* [Crash course in audience research](https://www.forgetthefunnel.com/resources/saas-audience-research-habits) - 
+* [Unlock the power of user feedback](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback) - short read on how to collect feedback at every stage of the process
+* [How to not do product discovery](https://demandmaven.substack.com/p/how-to-not-do-product-discovery) - product discovery breakdown
+* [Crash course in audience research](https://www.forgetthefunnel.com/resources/saas-audience-research-habits) - tips on audience research
 * [The secret to getting the truth from customers about what they actually care about](https://demandmaven.substack.com/p/maxdiff-the-secret-to-getting-the) - feature preference analysis done right
 * [Jobs to be Done Interviews for Customer Development](https://valchanova.me/customer-development-jobs-to-be-done/) - introduction to Jobs to Be Done
 </br>
 </br>
 
 ## 🛠 Tools
-* [Fanthom](https://fathom.video/) - the all in on one tool for calls or something like records, transcribes, highlights, and summarizes your meetings
+* [Fanthom](https://fathom.video/) - records, transcribes and summarizes meetings
 * [Tactiq](https://tactiq.io/) - real-time transcriptions for calls
 </br>
 </br>
 
 ## 👩‍💻 Author
-Talking to Customers is a collection created and maintained by (Edoardo Stradella)[https://twitter.com/e_stradella] (Feel free to recommend me resources!)
+Talking to Customers is a collection created and maintained by [Edoardo Stradella](https://twitter.com/e_stradella) (**Feel free to recommend me resources!**)
 
 All articles, tools and other goodies were done by independent authors and companies. All credentials are included.
