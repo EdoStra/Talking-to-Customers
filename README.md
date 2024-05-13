@@ -2,6 +2,7 @@
 
 This is a short hand-picked collection of resources to help SaaS founders get started with customer interviews.
 
+
 *If you found this list helpful, tweet it to let other founders find it!*
 </br>
 </br>
@@ -18,9 +19,10 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 * [Maze Question Bank](https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a?v=eeb8b6ff563c4f47a69a70ccd5d36c56) - database of 398 questions tagged and organized in Notion
 * [22 questions you should be asking your customers](https://twitter.com/samanthalcc/status/1567859143926599681?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1567859143926599681%7Ctwgr%5Ebe8958826cf224887267734f0f13f704902ec5b2%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Fedoardostradella%2FStudies-d19fbe731e774318ae655a41a8ff0341) - short thread by Samantha Leal
 * [Customer Interview Questions](https://www.insightpipeline.com/customer-interview-questions) - interview questions with examples by Fraser Deans
-* [somhing](https://twitter.com/olenabomko/status/1665696726311682050) - interview questions for messaging (needs editing)
-* [something else but this is b2b](https://www.contentlift.io/customer-interview-questions) -  this one is for b2b
-* [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/) - let's find something better Included are questions that can be asked throughout the product development lifecycle – from identifying problems/generating ideas to improving a live product
+* [Customer Interview Questions for Messaging](https://twitter.com/olenabomko/status/1665696726311682050) - question ideas to improve your messaging by Olena Bomko
+* [B2B Customer Interview Questions](https://www.contentlift.io/customer-interview-questions) -  184 questions for B2B SaaS 
+* [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/) - questions for the whole product development lifecycle – from identifying problems/generating ideas to improving a live product
+* [Case Study Interview Questions](https://twitter.com/olenabomko/status/1705197148126487011) - by Olena Bomko, helpful if you want to write case studies
 </br>
 </br>
 
@@ -28,8 +30,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 * [Customer Discovery Script](https://deployempathy.substack.com/p/customer-interview-script-discovery-phase-i-e-before-you-ve-built-anything-415336) - useful to understand what to build, before actually building it by Michele Hansen
 * [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - use this script to uncover the initial part of your customer's journey
 * [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - learn from the customers you want more of
-* [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - if you're struggling with high churn
-* [Feature Request Scrpt](https://deployempathy.substack.com/p/turning-feature-requests-into-customer-research-450754) - this one is about feature request 
+* [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - recommended if you're struggling with high churn
+* [Feature Request Scrpt](https://deployempathy.substack.com/p/turning-feature-requests-into-customer-research-450754) - when you want to dive deep into a feature request 
 </br>
 </br>
 
