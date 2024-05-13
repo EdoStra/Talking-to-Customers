@@ -1,6 +1,6 @@
 # 👋 Welcome to Talking to Customers!
 
-This is a short hand-picked collection of resources to help SaaS founders get started with customer research.
+This is a short hand-picked collection of resources to help SaaS founders get started with customer interviews.
 
 *If you found this list helpful, tweet it to let other founders find it!*
 </br>
@@ -18,6 +18,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 * [Maze Question Bank](https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a?v=eeb8b6ff563c4f47a69a70ccd5d36c56) - database of 398 questions tagged and organized in Notion
 * [22 questions you should be asking your customers](https://twitter.com/samanthalcc/status/1567859143926599681?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1567859143926599681%7Ctwgr%5Ebe8958826cf224887267734f0f13f704902ec5b2%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Fedoardostradella%2FStudies-d19fbe731e774318ae655a41a8ff0341) - short thread by Samantha Leal
 * [Customer Interview Questions](https://www.insightpipeline.com/customer-interview-questions) - interview questions with examples by Fraser Deans
+* [somhing](https://twitter.com/olenabomko/status/1665696726311682050) - interview questions for messaging (needs editing)
+* [something else but this is b2b](https://www.contentlift.io/customer-interview-questions) -  this one is for b2b
 * [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/) - let's find something better Included are questions that can be asked throughout the product development lifecycle – from identifying problems/generating ideas to improving a live product
 </br>
 </br>
@@ -49,6 +51,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 ## 🛠 Tools
 * [Fanthom](https://fathom.video/) - records, transcribes and summarizes meetings
 * [Tactiq](https://tactiq.io/) - real-time transcriptions for calls
+* [Otter.ai](https://otter.ai/) - same stuff as the others
+* [Grain](https://grain.com/) - same stuff as the others too
 </br>
 </br>
 
