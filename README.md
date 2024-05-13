@@ -29,6 +29,7 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 * [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - use this script to uncover the initial part of your customer's journey
 * [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - learn from the customers you want more of
 * [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - if you're struggling with high churn
+* [Feature Request Scrpt](https://deployempathy.substack.com/p/turning-feature-requests-into-customer-research-450754) - this one is about feature request 
 </br>
 </br>
 
@@ -51,8 +52,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 ## 🛠 Tools
 * [Fanthom](https://fathom.video/) - records, transcribes and summarizes meetings
 * [Tactiq](https://tactiq.io/) - real-time transcriptions for calls
-* [Otter.ai](https://otter.ai/) - same stuff as the others
-* [Grain](https://grain.com/) - same stuff as the others too
+* [Otter.ai](https://otter.ai/) - transcripts, automated summaries, action items, and chat 
+* [Grain](https://grain.com/) - automates note-taking, record-keeping, and insight-capture
 </br>
 </br>
 
