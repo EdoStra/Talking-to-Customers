@@ -10,8 +10,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 ## 💌 Email Invite Templates
 * [How to always get a “yes!”](https://wynter.com/post/customers-for-interviews)- a quick guide to recruiting customers for interviews by Wynter
 * [Founder Ondboarding](https://twitter.com/sab8a/status/1750139712424091767) - the email VEED's founder sent to schedule calls with new customers
-* [Have time for a quick chat?](https://www.groovehq.com/attachments/blog/non-scaleable-growth-tactics/a-request.png) - another template from Groove's Founder
-* [A personal hello + a quick question?](https://cdn-aipmi.nitrocdn.com/pUHWBQidOlEeRPsGpymdfXQXdCAwwKii/assets/images/optimized/rev-c3155a1/encharge.io/wp-content/uploads/2019/08/personal-intro.jpg) - email to start a conversation with trialists by Encharge
+* [Have time for a quick chat?](https://www.groovehq.com/attachments/blog/non-scaleable-growth-tactics/a-request.png) - email outreach template from Groove's Founder
+* [A personal hello + a quick question?](https://cdn-aipmi.nitrocdn.com/pUHWBQidOlEeRPsGpymdfXQXdCAwwKii/assets/images/optimized/rev-c3155a1/encharge.io/wp-content/uploads/2019/08/personal-intro.jpg) - email template to start a conversation with trialists by Encharge
 </br>
 </br>
 
