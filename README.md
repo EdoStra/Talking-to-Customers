@@ -16,13 +16,15 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 </br>
 
 ## 🔎 Customer Interview Questions
-* [Maze Question Bank](https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a?v=eeb8b6ff563c4f47a69a70ccd5d36c56) - database of 398 questions tagged and organized in Notion
+* [Maze Question Bank](https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a?v=eeb8b6ff563c4f47a69a70ccd5d36c56) - database of 398 UX questions tagged and organized in Notion
 * [22 questions you should be asking your customers](https://twitter.com/samanthalcc/status/1567859143926599681?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1567859143926599681%7Ctwgr%5Ebe8958826cf224887267734f0f13f704902ec5b2%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Fedoardostradella%2FStudies-d19fbe731e774318ae655a41a8ff0341) - short thread by Samantha Leal
 * [Customer Interview Questions](https://www.insightpipeline.com/customer-interview-questions) - interview questions with examples by Fraser Deans
 * [Customer Interview Questions for Messaging](https://twitter.com/olenabomko/status/1665696726311682050) - question ideas to improve your messaging by Olena Bomko
 * [B2B Customer Interview Questions](https://www.contentlift.io/customer-interview-questions) -  184 questions for B2B products 
-* [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/) - questions for the whole product development lifecycle – from identifying problems/generating ideas to improving a live product
-* [Case Study Interview Questions](https://twitter.com/olenabomko/status/1705197148126487011) - by Olena Bomko, helpful if you want to write case studies
+* [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/) - From identifying problems/generating ideas to improving a live product, a set of Customer Discovery/Development questions
+* [Case Study Interview Questions](https://twitter.com/olenabomko/status/1705197148126487011) - helpful if you need to write case studies
+* [JTBD Interview Questions](https://docs.google.com/document/d/183PzYjQi2vsIRlPMUrtzRwZF1VdnZWNDAZsrJ4MRT4Q/edit#heading=h.qgx3g981sn95) - 25 questions for Jobs To Be Done interviews plus email template for inviting customers 
+* [How to have "the talk" with your customers](https://www.growthunhinged.com/p/your-guide-to-finally-talking-to) - 25 questions to ask customers about price
 </br>
 </br>
 
@@ -37,13 +39,13 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 ## 📚 Books
 * [The Mom Test](https://www.momtestbook.com/) - the bible for customer discovery, recommended if you're a developer in search of a problem to solve
-* [Deploy Empathy](https://deployempathy.com/) - everything on user interviews
+* [Deploy Empathy](https://deployempathy.com/) - the most practical guide on customer interviews
 * [Forget the Funnel](https://www.forgetthefunnel.com/customer-led-growth/book) - a must-read if you're struggling to find a practical use for customer research
 </br>
 </br>
 
 ## 🚀 Other Goodies
-* [Unlock the power of user feedback](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback) - short read on how to collect feedback at every stage of the process
+* [Unlock the power of user feedback](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback) - short read on how to collect feedback for your SaaS
 * [How to not do product discovery](https://demandmaven.substack.com/p/how-to-not-do-product-discovery) - product discovery breakdown
 * [Crash course in audience research](https://www.forgetthefunnel.com/resources/saas-audience-research-habits) - tips on audience research
 * [The secret to getting the truth from customers about what they actually care about](https://demandmaven.substack.com/p/maxdiff-the-secret-to-getting-the) - feature preference analysis done right
@@ -60,6 +62,8 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 </br>
 
 ## 👩‍💻 Author
-Talking to Customers is a collection created and maintained by [Edoardo Stradella](https://twitter.com/e_stradella) (**Feel free to recommend me resources!**)
-
+Talking to Customers is a collection created and maintained by Edoardo Stradella ([Twitter/X](https://twitter.com/e_stradella) | [Website](https://www.edoardostradella.com/))
+(**Feel free to recommend me resources!**)
+</br>
+</br>
 All articles, tools and other goodies were done by independent authors and companies. All credentials are included.
