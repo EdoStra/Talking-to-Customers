@@ -63,7 +63,7 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 
 ## 👩‍💻 Author
 Talking to Customers is a collection created and maintained by Edoardo Stradella ([Twitter/X](https://twitter.com/e_stradella) | [Website](https://www.edoardostradella.com/))
-(**Feel free to recommend me resources!**)
+**Feel free to recommend me resources!**
 </br>
 </br>
 All articles, tools and other goodies were done by independent authors and companies. All credentials are included.
