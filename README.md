@@ -16,7 +16,7 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 </br>
 
 ## 🔎 Customer Interview Questions
-* [Maze Question Bank](https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a?v=eeb8b6ff563c4f47a69a70ccd5d36c56) - database of 398 UX questions tagged and organized in Notion
+* [Maze Question Bank](https://mazedesign.notion.site/dd213d94bcf046738434f93ce8152ab6?v=d05d4225bd8142dbb990e047e6d2ab24) - database of 398 UX questions tagged and organized in Notion
 * [22 questions you should be asking your customers](https://twitter.com/samanthalcc/status/1567859143926599681?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1567859143926599681%7Ctwgr%5Ebe8958826cf224887267734f0f13f704902ec5b2%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Fedoardostradella%2FStudies-d19fbe731e774318ae655a41a8ff0341) - short thread by Samantha Leal
 * [Customer Interview Questions](https://www.insightpipeline.com/customer-interview-questions) - interview questions with examples by Fraser Deans
 * [Customer Interview Questions for Messaging](https://twitter.com/olenabomko/status/1665696726311682050) - question ideas to improve your messaging by Olena Bomko
