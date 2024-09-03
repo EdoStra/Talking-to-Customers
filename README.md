@@ -12,6 +12,7 @@ This is a short hand-picked collection of resources to help SaaS founders get st
 * [Founder Ondboarding](https://twitter.com/sab8a/status/1750139712424091767) - the email VEED's founder sent to schedule calls with new customers
 * [Have time for a quick chat?](https://www.groovehq.com/attachments/blog/non-scaleable-growth-tactics/a-request.png) - email outreach template from [Groove's Founder](https://www.groovehq.com/blog/business-email-templates)
 * [A personal hello + a quick question?](docs/personal-intro-encharge.png) - email template to start a conversation with trialists by [Encharge](https://encharge.io/onboarding-email-sequence/)
+* [User Interview Email Examples](https://www.saasemails.xyz/saas-interview-invitation-email) - a collection of interview invitation email templates
 </br>
 </br>
 
